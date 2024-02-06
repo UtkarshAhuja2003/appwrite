@@ -92,6 +92,16 @@ return [
         'beta' => false,
         'mock' => false
     ],
+    'digitalocean' => [
+        'name' => 'DigitalOcean',
+        'developers' => 'https://docs.digitalocean.com/reference/api/oauth-api',
+        'icon' => 'icon-digitalocean',
+        'enabled' => true,
+        'sandbox' => false,
+        'form' => false,
+        'beta' => false,
+        'mock' => false
+    ],
     'discord' => [
         'name' => 'Discord',
         'developers' => 'https://discordapp.com/developers/docs/topics/oauth2',
